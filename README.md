@@ -94,9 +94,5 @@ The `users` table stores login information. Passwords should be stored as secure
 
 This project demonstrates how PHP and MySQL can be used to build a basic student record management system with authentication, CRUD operations, search, filtering, and validation.
 
-## Developer
 
-**Jerome I. Oñido**
-
-BSIT Student | Web Development
 
